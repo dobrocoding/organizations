@@ -2,13 +2,15 @@
 
 Система управления организациями с API для поиска и управления данными об организациях, зданиях и их деятельности.
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/dobrocoding/organizations)
+
 ## �� Быстрый старт
 
 ### 1. Клонирование и развертывание
 
 ```bash
 # Клонируем репозиторий
-git clone <repository-url>
+git clone https://github.com/dobrocoding/organizations.git
 cd organizations
 
 # Устанавливаем зависимости
@@ -179,3 +181,15 @@ organizations/
 - [ ] Реализовать шардинг базы данных
 - [ ] Добавить CDN для статических ресурсов
 - [ ] Оптимизировать для микросервисной архитектуры
+
+---
+
+## 🔗 Ссылки
+
+- **GitHub Repository**: [https://github.com/dobrocoding/organizations](https://github.com/dobrocoding/organizations)
+- **Issues**: [https://github.com/dobrocoding/organizations/issues](https://github.com/dobrocoding/organizations/issues)
+- **Pull Requests**: [https://github.com/dobrocoding/organizations/pulls](https://github.com/dobrocoding/organizations/pulls)
+
+## 📄 Лицензия
+
+Этот проект распространяется под лицензией MIT. См. файл [LICENSE](LICENSE) для получения дополнительной информации.
