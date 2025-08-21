@@ -69,32 +69,8 @@ make lint
 # Запуск всех тестов в Docker
 make docker-test
 
-# Запуск тестов локально
-make test-local
-
 
 ## 📁 О проекте
-
-### Структура проекта
-
-```
-organizations/
-├── app/                    # Основное приложение
-│   ├── core/              # Конфигурация и базовые компоненты
-│   ├── models/            # Модели данных
-│   ├── schemas/           # Pydantic схемы
-│   ├── services/          # Бизнес-логика
-│   ├── views/             # API эндпоинты
-│   └── worker.py          # Фоновые задачи
-├── tests/                 # Тесты
-│   ├── test_e2e/         # End-to-end тесты
-│   ├── test_integration/ # Интеграционные тесты
-│   └── test_unit/        # Модульные тесты
-├── alembic/              # Миграции базы данных
-├── docker-compose.test.yaml  # Конфигурация для тестов
-├── Dockerfile            # Образ приложения
-└── Makefile              # Команды для разработки
-```
 
 ### Технологический стек
 
@@ -189,7 +165,3 @@ organizations/
 - **GitHub Repository**: [https://github.com/dobrocoding/organizations](https://github.com/dobrocoding/organizations)
 - **Issues**: [https://github.com/dobrocoding/organizations/issues](https://github.com/dobrocoding/organizations/issues)
 - **Pull Requests**: [https://github.com/dobrocoding/organizations/pulls](https://github.com/dobrocoding/organizations/pulls)
-
-## 📄 Лицензия
-
-Этот проект распространяется под лицензией MIT. См. файл [LICENSE](LICENSE) для получения дополнительной информации.
