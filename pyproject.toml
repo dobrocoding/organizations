@@ -46,7 +46,7 @@ pytest = "^8.4.1"
 pytest-cov = "^6.2.1"
 pytest-asyncio = "^1.1.0"
 openapi-spec-validator = "^0.7.2"
-polyfactory = "^2.22.1"
+polyfactory = "^2.22.2"
 
 
 [build-system]
