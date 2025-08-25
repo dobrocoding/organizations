@@ -12,11 +12,6 @@ services:
       S3_SECRET_ACCESS_KEY_ID: test
       S3_PRIVATE_BUCKET_NAME: test-bucket
       S3_PUBLIC_BUCKET_NAME: test-bucket
-      SES_ENDPOINT: http://localstack:4566
-      SES_REGION_NAME: us-east-1
-      SES_ACCESS_KEY: test
-      SES_SECRET_KEY: test
-      UNOVAY_EMAIL_FROM: sender@example.com
     volumes:
       - .:/src
     command: >
