@@ -2250,14 +2250,14 @@ nodejs = ["nodejs-wheel-binaries"]
 
 [[package]]
 name = "pytest"
-version = "8.4.1"
+version = "8.4.2"
 description = "pytest: simple powerful testing with Python"
 optional = false
 python-versions = ">=3.9"
 groups = ["tests"]
 files = [
-    {file = "pytest-8.4.1-py3-none-any.whl", hash = "sha256:539c70ba6fcead8e78eebbf1115e8b589e7565830d7d006a8723f19ac8a0afb7"},
-    {file = "pytest-8.4.1.tar.gz", hash = "sha256:7c67fd69174877359ed9371ec3af8a3d2b04741818c51e5e99cc1742251fa93c"},
+    {file = "pytest-8.4.2-py3-none-any.whl", hash = "sha256:872f880de3fc3a5bdc88a11b39c9710c3497a547cfa9320bc3c5e62fbf272e79"},
+    {file = "pytest-8.4.2.tar.gz", hash = "sha256:86c0d0b93306b961d58d62a4db4879f27fe25513d4b969df351abdddb3c30e01"},
 ]
 
 [package.dependencies]
@@ -4531,4 +4531,4 @@ propcache = ">=0.2.1"
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.13"
-content-hash = "e71fae95d755dc0a6156e4e7117af09c7ad92f900c7ad49e252f43aec7d409a0"
+content-hash = "37fef1cc0034b78fe010fef922991901cd880a95c874fa841748bb2c616dbb67"
