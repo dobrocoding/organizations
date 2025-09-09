@@ -43,7 +43,7 @@ types-python-dateutil = "^2.9.0.20250822"
 
 [tool.poetry.group.tests.dependencies]
 pytest = "^8.4.2"
-pytest-cov = "^6.3.0"
+pytest-cov = "^7.0.0"
 pytest-asyncio = "^1.1.0"
 openapi-spec-validator = "^0.7.2"
 polyfactory = "^2.22.2"
