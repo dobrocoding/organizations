@@ -33,7 +33,7 @@ pyotp = "^2.9.0"
 
 
 [tool.poetry.group.lint.dependencies]
-mypy = "^1.17.1"
+mypy = "^1.18.1"
 ruff = "^0.13.0"
 pyright = "^1.1.405"
 types-pyyaml = "^6.0.12.20250822"
