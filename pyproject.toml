@@ -15,7 +15,7 @@ starlette-exporter = "^0.23.0"
 # brotli-asgi = "^1.4.0"
 uvicorn = {extras = ["standard"], version = "^0.37.0"}
 httpx = "^0.28.1"
-pydantic-settings = "^2.10.1"
+pydantic-settings = "^2.11.0"
 sqlalchemy = {extras = ["asyncio"], version = "^2.0.43"}
 alembic = "^1.16.5"
 asyncpg = "^0.30.0"
