@@ -39,7 +39,7 @@ pyright = "^1.1.406"
 types-pyyaml = "^6.0.12.20250915"
 types-aioboto3 = {extras = ["essential", "ses"], version = "^15.2.0"}
 types-redis = "^4.6.0.20241004"
-types-python-dateutil = "^2.9.0.20250822"
+types-python-dateutil = "^2.9.0.20251008"
 
 [tool.poetry.group.tests.dependencies]
 pytest = "^8.4.2"
