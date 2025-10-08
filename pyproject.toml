@@ -34,7 +34,7 @@ pyotp = "^2.9.0"
 
 [tool.poetry.group.lint.dependencies]
 mypy = "^1.18.2"
-ruff = "^0.13.3"
+ruff = "^0.14.0"
 pyright = "^1.1.406"
 types-pyyaml = "^6.0.12.20250915"
 types-aioboto3 = {extras = ["essential", "ses"], version = "^15.2.0"}
