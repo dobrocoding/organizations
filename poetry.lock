@@ -2945,14 +2945,14 @@ starlette = ">=0.35"
 
 [[package]]
 name = "that-depends"
-version = "3.6.0"
+version = "3.7.0"
 description = "Simple Dependency Injection framework"
 optional = false
 python-versions = "<4,>=3.10"
 groups = ["main"]
 files = [
-    {file = "that_depends-3.6.0-py3-none-any.whl", hash = "sha256:ec9fea33fc90f0306782592da79b43bb1c0605f667aff03c781d4de3eabf725b"},
-    {file = "that_depends-3.6.0.tar.gz", hash = "sha256:da31ed4f530adb351c8db710509c97b11b1bb156e337ef56f08f9fc1ddb0fbc5"},
+    {file = "that_depends-3.7.0-py3-none-any.whl", hash = "sha256:c0cb8d2ff7329962eb983f1964f07c0def87b6af7bc1427830cccdb5507b4540"},
+    {file = "that_depends-3.7.0.tar.gz", hash = "sha256:61be6397556fae7efdd95bfb9115ffc6db74388dae004f6517c160496f30ae87"},
 ]
 
 [package.extras]
@@ -4588,4 +4588,4 @@ propcache = ">=0.2.1"
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.13"
-content-hash = "8cc6d086bcb4d0ce0ab5f2242dde9c1a6751df94791c840164c8d110c40b6f0d"
+content-hash = "9db2e9705f0857ee70c16945895d2371e65f8370ed77aecd45acf801008f77e9"
