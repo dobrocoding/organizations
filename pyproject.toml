@@ -16,7 +16,7 @@ starlette-exporter = "^0.23.0"
 uvicorn = {extras = ["standard"], version = "^0.37.0"}
 httpx = "^0.28.1"
 pydantic-settings = "^2.11.0"
-sqlalchemy = {extras = ["asyncio"], version = "^2.0.43"}
+sqlalchemy = {extras = ["asyncio"], version = "^2.0.44"}
 alembic = "^1.16.5"
 asyncpg = "^0.30.0"
 saq = {extras = ["redis"], version = "^0.25.2"}
