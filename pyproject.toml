@@ -9,7 +9,7 @@ package-mode = false
 [tool.poetry.dependencies]
 python = "^3.13"
 fastapi = "^0.119.0"
-pydantic = {extras = ["email"], version = "^2.12.1"}
+pydantic = {extras = ["email"], version = "^2.12.2"}
 pyyaml = "^6.0"
 starlette-exporter = "^0.23.0"
 # brotli-asgi = "^1.4.0"
