@@ -2799,14 +2799,14 @@ crt = ["botocore[crt] (>=1.36.0,<2.0a.0)"]
 
 [[package]]
 name = "saq"
-version = "0.25.2"
+version = "0.26.0"
 description = "Distributed Python job queue with asyncio and redis"
 optional = false
 python-versions = "*"
 groups = ["main"]
 files = [
-    {file = "saq-0.25.2-py3-none-any.whl", hash = "sha256:9802ec239d96b922b0c9c4ebcd31ad5caef448fdf56c70cff06ba80096da30cb"},
-    {file = "saq-0.25.2.tar.gz", hash = "sha256:ee917a979984f9cb2c426718cefc9a5ddf19107b35df25a6abeebc194b131d03"},
+    {file = "saq-0.26.0-py3-none-any.whl", hash = "sha256:3d8bb499dc59c6f0e942f98a7c1bab86571d07f2898b544ea35c7d24c877f067"},
+    {file = "saq-0.26.0.tar.gz", hash = "sha256:2b4cceda3f8f39d0acd10c46d0e12c8f2f7b1e38ae1eab6260abde45ee7f7af2"},
 ]
 
 [package.dependencies]
@@ -4620,4 +4620,4 @@ propcache = ">=0.2.1"
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.13"
-content-hash = "46ca187e64ae453766dee747d94b055f606be026ca22b7e0ae309e8f22f8991e"
+content-hash = "6eaaa63d46c5e15a62bd54111331405d73ff1080baa8bfed73f536b513996778"
