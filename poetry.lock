@@ -2977,19 +2977,19 @@ starlette = ">=0.35"
 
 [[package]]
 name = "that-depends"
-version = "3.7.0"
+version = "3.8.0"
 description = "Simple Dependency Injection framework"
 optional = false
 python-versions = "<4,>=3.10"
 groups = ["main"]
 files = [
-    {file = "that_depends-3.7.0-py3-none-any.whl", hash = "sha256:c0cb8d2ff7329962eb983f1964f07c0def87b6af7bc1427830cccdb5507b4540"},
-    {file = "that_depends-3.7.0.tar.gz", hash = "sha256:61be6397556fae7efdd95bfb9115ffc6db74388dae004f6517c160496f30ae87"},
+    {file = "that_depends-3.8.0-py3-none-any.whl", hash = "sha256:5817bb3d153fd5e832f294f69ee01258e70b0f9016c29b02704efe4ab1663bae"},
+    {file = "that_depends-3.8.0.tar.gz", hash = "sha256:777bee19f35d1786d95219fa2e23f41beba7b30c7b0a37de5a88bc80211430e6"},
 ]
 
 [package.extras]
 fastapi = ["fastapi"]
-faststream = ["faststream"]
+faststream = ["faststream (<0.6.0)"]
 
 [[package]]
 name = "types-aioboto3"
@@ -4620,4 +4620,4 @@ propcache = ">=0.2.1"
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.13"
-content-hash = "d2faaf4b727cde583f8696481e579aac208146bb4db7d30a56b0e307d5cf3ec5"
+content-hash = "c2a523d524762696e908ee97258c0c7d5504f17755a13970d70a795c6c0cec5a"
