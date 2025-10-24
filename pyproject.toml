@@ -20,7 +20,7 @@ sqlalchemy = {extras = ["asyncio"], version = "^2.0.44"}
 alembic = "^1.17.0"
 asyncpg = "^0.30.0"
 saq = {extras = ["redis"], version = "^0.25.2"}
-that-depends = "^3.7.0"
+that-depends = "^3.8.0"
 aioboto3 = "^13.2.0"
 aiobotocore = "^2.15.2"
 cryptography = "^46.0.3"
